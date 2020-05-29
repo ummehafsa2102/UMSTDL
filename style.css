@@ -1,0 +1,306 @@
+
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  font-family: 'Montserrat', sans-serif;
+}
+/* for the heading */
+.heading{
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: bold;
+  font-size: 30px;
+ 
+}
+/* for the header */
+
+.header-area{
+  background-color:#262626;
+  color: #fff;
+}
+
+.title-area{
+  background-color:#4db8ff;
+  color: #333333;
+}
+.title-area h3{
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: bold;
+  font-size: 30px;
+}
+.fab {
+  background-color: #fff;
+  padding: 6px;
+  font-size: 15px;
+  border-radius: 10px;
+  margin: 4px 5px;
+  color:#000;
+}
+.facebook:hover {
+  background-color: #85a3e0;
+  color: #fff;
+}
+
+.twitter:hover {
+  background-color: #00acee;
+  color: #fff;
+}
+
+.instagram:hover {
+  color: #fff;
+  background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%);
+}
+
+.linkedin:hover {
+  background-color: #0e76a8;
+  color: #fff;
+}
+
+.pinterest:hover {
+  background-color: #c8232c;
+  color: #fff;
+}
+.phn-icon{
+  transform:rotate(100deg);
+}
+
+/* menu */
+.menu-area{
+  background-color: #80ccff;
+  padding: 15px;
+  font-family: 'Open Sans', sans-serif;
+
+}
+.menu-link{
+  color: #333333;
+  font-size: 20px;
+ 
+
+  
+}
+.registration {
+  width: 100%;
+}
+.regi-btn {
+  width: 60%;
+  background-color: #fff;
+  padding: 6px;
+  font-size: 15px;
+  border-radius: 10px;
+  margin:  2px auto;
+  color:#000;
+  display: block;
+  font-weight: bolder;
+  text-align: center;
+}
+.regi-btn:hover {
+  background-color: #94cdf3;
+  color: #262626;
+  text-decoration: none;
+}
+.menu-link:hover{
+  color:#fff;
+}
+#dropdownMenuLink{
+  color: #fff;
+}
+.course-menu{
+  color: #333333;
+  background-color: #e6e6e6;
+}
+.course-item{
+
+}
+/* for the slider*/ 
+
+
+.banner-item{
+  position: relative;
+  height: 100vh;
+ background-size: cover;
+}
+.banner-item:before{
+  content: "";
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  background-color: rgba(0,0,0,.5);
+  top: 0;
+  left: 0;
+}
+.banner-data{
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  left: 40%;
+  transform: translateZ(-40%);
+  font-size: 40px;
+  color: #fff;
+  padding: 20px;
+  font-weight:bold;
+  width: 50%;
+
+
+}
+
+ 
+.owl-carousel .owl-nav button.owl-prev,
+.owl-carousel .owl-nav button.owl-next
+ {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  color: #fff;
+  font-size: 70px;
+
+}
+.owl-carousel .owl-nav button.owl-prev{
+  left: 0;
+}
+.owl-carousel .owl-nav button.owl-next{
+  right: 0;
+}
+
+
+.heading{
+  
+  
+ 
+}
+.design{
+  background-color:#4d0099 ;
+  height: 5px;
+
+}
+
+/*courses */
+.course-img{
+  height: 230px;
+  transition: transform .2s;
+  
+
+}
+.course-img:hover{
+  transform: scale(1.1);
+}
+.course-title{
+  color: #000;
+  font-size: 18px;
+  text-decoration: none;
+}
+/* Services*/ 
+.service-area{
+  
+
+}
+
+.servicebox h4{
+  font-family: sans-serif;
+  font-size: 25px;
+  
+}
+.servicebox h4:hover{
+  color:#595959;
+  
+}
+.service-icon{
+  font-size: 35px;
+  color:#000;
+}
+.service-icon:hover{
+  color:#595959;
+  font-weight: bold;
+}
+.testimonial-area{
+background-color:#f2f2f2;
+  
+}
+.testimonial-box{
+  background-color:#0099ff;
+
+}
+.testimonial-image{ 
+  height: 100%;
+  width: 100%;
+}
+.testimonial-text{
+  line-height: 30px;
+  color: #000;
+  font-size: 20px;
+}
+.fa-angle-left,.fa-angle-right{
+  color: #000;
+  font-size: 40px;
+}
+/*footer*/
+.footer-area{
+  background-color:#262626;
+}
+.footer-area-text{
+  font-size:12px;
+  color: #fff;
+  
+}
+.footer-lineend {
+  width: 100%;
+  background-color: #006bb3;
+  height: 10px;
+  }
+  .footer-rights{
+    background-color:#80ccff;
+  }
+  
+/*about page */
+
+  .about-img{
+  width: 100%;
+  height: 550px;
+  }
+ 
+  .border {
+  width: 133px;
+  height: 3px;
+  background-color: #0099ff;
+  margin-top: 10px;
+  }
+  .about-text h1{
+  font-size:30px;
+ 
+  font-weight: 100;
+  
+  }
+  .about-heading{
+  font-weight: 900;
+  color: #0099ff;
+  }
+  .about-text h3{
+    font-size:18px;
+   
+    padding-bottom:10px;
+    line-height:27px;
+    letter-spacing: 1px;
+    }
+    .about-text p{
+    font-size:15px;
+    padding-bottom:10px;
+    padding-top:10px;
+    line-height:24px;
+    letter-spacing: 1px;
+    margin-bottom: 20px;
+    }
+  .btn-hire{
+    background-color:#0099ff;
+  padding:10px 30px ;
+  border-radius:30px;
+  text-align: center;
+  font-size: 22px;
+  color: #fff;
+  text-decoration: none;
+  
+  }
+  .btn-hire:hover {
+    background-color:#595959;
+  color: #fff;
+  } 
+  

@@ -1,0 +1,182 @@
+/* for the courses pages */
+
+*{
+    margin: 0;
+    padding: 0;
+  }
+  .heading{
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+    color:#005ce6;
+  }
+  /* for the header */
+  
+  .header-area{
+    background-color:#4d0099;
+    color: #fff;
+  }
+  
+  .title-area{
+    background-color:#e6e6e6;
+    color: #0000cc;
+   
+  }
+  .title-area h3{
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+  }
+  .fab {
+    background-color: #fff;
+    padding: 6px;
+    font-size: 15px;
+    border-radius: 10px;
+    margin: 4px 5px;
+    color:#000;
+  }
+  .facebook:hover {
+    background-color: #85a3e0;
+    color: #fff;
+  }
+  
+  .twitter:hover {
+    background-color: #00acee;
+    color: #fff;
+  }
+  
+  .instagram:hover {
+    color: #fff;
+    background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%);
+  }
+  
+  .linkedin:hover {
+    background-color: #0e76a8;
+    color: #fff;
+  }
+  
+  .pinterest:hover {
+    background-color: #c8232c;
+    color: #fff;
+  }
+  
+  /* menu */
+  .menu-area{
+    background-color: #0000cc;
+    padding: 15px;
+    font-family: 'Open Sans', sans-serif;
+  
+  }
+  .menu-link{
+    color:#fff;
+    font-size: 15px;
+   
+  
+  }
+  
+  .menu-link:hover{
+    color:#fff;
+  }
+  #dropdownMenuLink{
+    color: #fff;
+  }
+  .course-menu{
+    background-color: #e6e6e6;
+  }
+  .course-item{
+  
+  }
+  .border-line {
+  width: 100%;
+  background-color: #4d0099;
+  height: 4px;
+  }
+  
+  .course-head {
+   background-color: #005ce6;
+  color: #fff;
+  padding: 15px;
+   
+  }
+  
+  .course-slider {
+
+    background-image: linear-gradient(to bottom, rgba(245, 246, 252, 0.52), rgba(46, 38, 116, 0.73)),
+    url('../images/9.jpg');
+   background-size: cover;
+   width: 100%;
+   height: 60vh;
+  background-position: center;
+  }
+  
+  .img-text h1 {
+    font-weight: bold;
+    font-size: 50px;
+    color:#000;
+    
+   
+  }
+  .img-text p{
+    font-size: 40px;
+    color:#000;
+   
+  }
+  
+    .vertical-center {
+        min-height: 100%;  /* Fallback for browsers do NOT support vh unit */
+        min-height: 100vh; /* These two lines are counted as one :-)       */
+      
+        display: flex;
+        align-items: center;
+      }
+
+ 
+  
+    .border {
+    width: 200px;
+    height: 3px;
+    background-color: #005ce6;
+    margin-top: 10px;
+    }
+    
+    .course-img{
+      width: 100%;
+      height: 240px;
+    }
+    .btn-hire{
+        font-size: 18px;
+        color: #fff;
+        
+    }
+     
+    .course-join {
+        width: 100%;
+        background-color:#4d0099;
+    }
+    .course-join p{
+        color: white;
+      font-size: 25px;
+    }
+    
+    .border-lineend {
+        width: 100%;
+        background-color:#4d4dff;
+        height: 15px;
+        }
+/*footer*/
+        .footer-area{
+          background-color:#4d4dff;
+        }
+        .footer-area-text{
+          font-size:12px;
+          color: #fff;
+          
+        }
+        .footer-lineend {
+          width: 100%;
+          background-color: #0000cc;
+          height: 10px;
+          }
+          .footer-rights{
+            background-color: #4d0099;
+          }
