@@ -11,7 +11,7 @@
 <div class="col-lg-1">
 
 </div>
-
+<!-- 
   <div class="col-lg-2 col-sm-12 col-md-12 text-center">
         <div class="row">
           <div class="col-lg-2">
@@ -60,7 +60,7 @@
         </div>
         </div>
   
-  </div>
+  </div> -->
 
 </div>
 

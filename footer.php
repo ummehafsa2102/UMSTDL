@@ -51,7 +51,7 @@
 
       <div class="footer-lineend"></div> 
       <div class="footer-rights">
-      <p class="text-center p-3 mb-0" style="color:#000; font-weight: 600; font-size: 20px;">Web Amex All rights reserved.</p>
+      <!-- <p class="text-center p-3 mb-0" style="color:#000; font-weight: 600; font-size: 20px;">Web Amex All rights reserved.</p> -->
       </div>
 
       <!--end of footer area-->

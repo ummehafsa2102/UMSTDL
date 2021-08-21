@@ -32,18 +32,23 @@
 
             <div class="banner owl-carousel m-0 d-none d-lg-block">
 
-          <div class="banner-item" style="   background-image:url('images/0-7.jpg');">
+          <div class="banner-item" style="   background-image:url('images/100.jpg');">
             <div class="banner-data">
-              <div class="banner-para">  
+              <!-- <div class="banner-para">  
                 <p>আমরা দিব ফুল গাইডলাইন এবং অভিজ্ঞ শিক্ষক দ্বারা সার্বক্ষণিক অনলাইন সাপোর্</p>
-              </div>
-              <a href="registration_page.php" class="btn btn-hire">এখনই নিবন্ধন করুন</a>
+              </div> -->
+              <!-- <a href="registration_page.php" class="btn btn-hire">এখনই নিবন্ধন করুন</a> -->
+              
+                <h3> <i class="fa fa-check"></i> Innovation design education</h3>
+                <h3> <i class="fa fa-check"></i>  Enhancement of social competencies</h3>
+                <h3> <i class="fa fa-check"></i> Enhancement of inventiveness</h3>
+               <a href="registration_page.php" class="btn btn-hire mt-4">Learn More</a>
             </div>
           </div>
 
 
-          <div class="banner-item" style="   background-image: linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,.5)),
-    url('images/0-1.jpg');">
+          <!-- <div class="banner-item" style="   background-image: linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,.5)),
+    url('images/13.jpg');">
             <div class="banner-data">
               <p>অভিজ্ঞ শিক্ষক দ্বারা ক্লাস পরিচালিত করা হয় এবং আছে টিউটর এর ব্যবস্থা।</p>
               <a href="registration_page.php" class="btn btn-hire">এখনই নিবন্ধন করুন</a>
@@ -52,13 +57,13 @@
           </div>
 
           <div class="banner-item" style="   background-image: linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,.5)),
-    url('images/0-4.jpg');">
+    url('images/9.jpg');">
             <div class="banner-data">
               <p>আমাদের আছে সুসজ্জিত ক্লাস রুম এবং আধুনিক কম্পিউটার ল্যাব।</p>
               <a href="registration_page.php" class="btn btn-hire">এখনই নিবন্ধন করুন</a>
             </div>
          
-          </div>
+          </div> -->
 
 
           </div>
@@ -334,7 +339,7 @@
     
         <! gallery area  !>
 
-        <div class="gallery-area pb-4" style="background-color:#f2f2f2">
+        <!-- <div class="gallery-area pb-4" style="background-color:#f2f2f2">
 
         <div class="heading"> 
             
@@ -396,7 +401,7 @@
         <div class="col-12 text-center m-4">
       <a href="gallery_page.php" class="btn btn-hire">View More</a>
           </div>
-        </div>
+        </div> -->
 
 
             <! End of gallery  area  !>
